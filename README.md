@@ -34,8 +34,12 @@
 ## Results
 
 
+## Get Started
+(Add Code/Tutorial here)
 
-## BibTeX
+
+
+## Citation
 ```bibtex
 @misc{vujasinović2023readmem,
       title={READMem: Robust Embedding Association for a Diverse Memory in Unconstrained Video Object Segmentation}, 

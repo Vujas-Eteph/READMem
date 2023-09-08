@@ -3,14 +3,22 @@
 *by* **Stéphane Vujasinović**, Sebastian Bullinger, Stefan Becker, Norbert Scherer-Negenborn, Michael Arens and Rainer Stiefelhagen  
 :fire: *Accepted at the* **BMVC 2023**
 
+🗒️ [**arXiv**](https://arxiv.org/pdf/2305.12823.pdf) - [**BMVC proceeding**](https://github.com/Vujas-Eteph/READMem) - others
 
 ---
-🚧 TODO list :
+
+**📰 News:**
+- Yay! Our paper has been accepted at the BMVC 2023 !!
+  
+---
+
+**🚧 TODO list :**
  - [ ] Method
  - [ ] Results
- - [ ] BibTeX
+ - [ ] Images
+ - [x] BibTeX
  - [ ] Code
- - [ ] Others ?
+ - [ ] Others?
 
 ---
 
@@ -20,19 +28,25 @@
 
 ## Method / Framework
 
-TODO
+
 
 ## Results
-
-TODO
 
 
 
 ## BibTeX
+```bibtex
+@misc{vujasinović2023readmem,
+      title={READMem: Robust Embedding Association for a Diverse Memory in Unconstrained Video Object Segmentation}, 
+      author={Stéphane Vujasinović and Sebastian Bullinger and Stefan Becker and Norbert Scherer-Negenborn and Michael Arens and Rainer Stiefelhagen},
+      year={2023},
+      eprint={2305.12823},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
-
-
-## Credits
+## Credits :
 - **MiVOS**: [GitHub](https://github.com/hkchengrex/MiVOS) - [Paper](https://arxiv.org/pdf/2103.07941.pdf)  
 - **STCN** : [GitHub](https://github.com/hkchengrex/STCN) - [Paper](https://arxiv.org/pdf/2106.05210.pdf)  
 - **QDMN** : [GitHub](https://github.com/workforai/QDMN) - [Paper](https://arxiv.org/pdf/2207.07922.pdf)  

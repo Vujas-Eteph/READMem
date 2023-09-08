@@ -20,7 +20,7 @@
 **🚧 TODO list :**
  - [ ] Method
  - [ ] Results
- - [ ] Images
+ - [x] Images
  - [x] BibTeX
  - [ ] Code
  - [ ] Others?

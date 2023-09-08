@@ -1,15 +1,20 @@
 # READMem: Robust Embedding Association for a Diverse Memory in Unconstrained Video Object Segmentation  
 
 *by* **Stéphane Vujasinović**, Sebastian Bullinger, Stefan Becker, Norbert Scherer-Negenborn, Michael Arens and Rainer Stiefelhagen  
-:fire: *Accepted at the* **BMVC 2023**
 
-🗒️ [**arXiv**](https://arxiv.org/pdf/2305.12823.pdf) - [**BMVC proceeding**](https://github.com/Vujas-Eteph/READMem) - others
+- :fire: *Accepted at the* **BMVC 2023**
+- 🗒️ [**arXiv**](https://arxiv.org/pdf/2305.12823.pdf) - [**BMVC proceeding**](https://github.com/Vujas-Eteph/READMem) - (Videos) - (Poster) - others
+
+![FigResults](./img/Qualitative_Results.png)
+
+*tl;dr:* TODO 
 
 ---
 
 **📰 News:**
 - Yay! Our paper has been accepted at the BMVC 2023 !!
   
+
 ---
 
 **🚧 TODO list :**
@@ -28,10 +33,16 @@
 
 
 ## Method / Framework
+![FigPipeline](./img/Pipeline.png)
 
 
 
 ## Results
+The following plot displays the performance variations of baseline sVOS methods with and without our READMem extension on the LV1 dataset when varying the sampling interval.
+![FigResults](./img/Quantitative_Results_LV1.png)
+
+
+Checkout our paper and the supplementary material for more interesting qualitative and quantitative results!
 
 
 ## Get Started

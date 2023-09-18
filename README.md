@@ -7,7 +7,7 @@
 
 ![FigResults](./img/Qualitative_Results.png)
 
-*tl;dr:* TODO 
+**TL;DR**: *We manage the memory of STM like sVOS methods to better deal with long video. To attain long-term performance we estimate the inter-frame diversity of the base memory and integrate the embeddings of an incoming frame into the memory if it enhances the diversity. In return, we are able to limit the number of memory slots and deal with unconstrained video sequences without hindering the performance on short sequences and alleviate the need for a sampling interval.*
 
 ---
 

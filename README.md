@@ -43,7 +43,7 @@ The following plot displays the performance variations of baseline sVOS methods 
 ![FigResults](./img/Quantitative_Results_LV1.png)
 
 
-Checkout our paper and the supplementary material for more interesting qualitative and quantitative results!
+Checkout our paper and the supplementary material for more qualitative and quantitative results!
 
 
 ## Get Started

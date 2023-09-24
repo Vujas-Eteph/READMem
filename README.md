@@ -4,6 +4,7 @@
 
 - :fire: *Accepted at the* **BMVC 2023**
 - 🗒️ [**arXiv**](https://arxiv.org/pdf/2305.12823.pdf) - [**BMVC proceeding**](https://github.com/Vujas-Eteph/READMem) - (Videos) - (Poster) - others
+- [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/readmem-robust-embedding-association-for-a/semi-supervised-video-object-segmentation-on-13)](https://paperswithcode.com/sota/semi-supervised-video-object-segmentation-on-13?p=readmem-robust-embedding-association-for-a)
 
 ![FigResults](./img/Qualitative_Results.png)
 

@@ -6,7 +6,7 @@
 - 🗒️ [**arXiv**](https://arxiv.org/pdf/2305.12823v2.pdf) - [**BMVC proceeding**](https://github.com/Vujas-Eteph/READMem) - (Videos) - (Poster) - others
 - [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/readmem-robust-embedding-association-for-a/semi-supervised-video-object-segmentation-on-13)](https://paperswithcode.com/sota/semi-supervised-video-object-segmentation-on-13?p=readmem-robust-embedding-association-for-a)
 
-![FigResults](./img/Qualitative_Results.png)
+![](./img/Qualitative_Results.png)
 
 **TL;DR**: *We manage the memory of STM like sVOS methods to better deal with long video. To attain long-term performance we estimate the inter-frame diversity of the base memory and integrate the embeddings of an incoming frame into the memory if it enhances the diversity. In return, we are able to limit the number of memory slots and deal with unconstrained video sequences without hindering the performance on short sequences and alleviate the need for a sampling interval.*
 

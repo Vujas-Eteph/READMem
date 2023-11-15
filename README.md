@@ -2,19 +2,20 @@
 
 *by* **Stéphane Vujasinović**, Sebastian Bullinger, Stefan Becker, Norbert Scherer-Negenborn, Michael Arens and Rainer Stiefelhagen  
 
-- :fire: *Accepted at the* **BMVC 2023**
+- 😃 *Accepted at the* **BMVC 2023**
 - ***Links*** :arrow_right: [**[arXiv]**](https://arxiv.org/pdf/2305.12823v2.pdf) - [**[BMVC Proceeding]**](https://github.com/Vujas-Eteph/READMem) - (Videos) - [**[Poster]**](./docs/poster.pdf)
 - [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/readmem-robust-embedding-association-for-a/semi-supervised-video-object-segmentation-on-13)](https://paperswithcode.com/sota/semi-supervised-video-object-segmentation-on-13?p=readmem-robust-embedding-association-for-a)
-
-![](./img/Qualitative_Results.png)
-
-**TL;DR**: *We manage the memory of STM like sVOS methods to better deal with long video. To attain long-term performance we estimate the inter-frame diversity of the base memory and integrate the embeddings of an incoming frame into the memory if it enhances the diversity. In return, we are able to limit the number of memory slots and deal with unconstrained video sequences without hindering the performance on short sequences and alleviate the need for a sampling interval.*
 
 ---
 
 **📰 News:**
-- Yay! Our paper has been accepted at the BMVC 2023 !!
-  
+- Come chat with me about READMem at poster 113 on Wednesday, October 22, 2023, from 2:00 PM to 4:00 PM.
+- Yay! Our paper has been accepted at the BMVC 2023 !! 😃
+---
+
+![](./img/Qualitative_Results.png)
+
+**TL;DR**: *We manage the memory of STM like sVOS methods to better deal with long video. To attain long-term performance we estimate the inter-frame diversity of the base memory and integrate the embeddings of an incoming frame into the memory if it enhances the diversity. In return, we are able to limit the number of memory slots and deal with unconstrained video sequences without hindering the performance on short sequences and alleviate the need for a sampling interval.*
 
 ---
 

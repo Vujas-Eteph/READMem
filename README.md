@@ -3,7 +3,7 @@
 *by* **Stéphane Vujasinović**, Sebastian Bullinger, Stefan Becker, Norbert Scherer-Negenborn, Michael Arens and Rainer Stiefelhagen  
 
 - :fire: *Accepted at the* **BMVC 2023**
-- 🗒️ [**arXiv**](https://arxiv.org/pdf/2305.12823v2.pdf) - [**BMVC proceeding**](https://github.com/Vujas-Eteph/READMem) - (Videos) - (Poster) - others
+- ***Links*** :arrow_right: [**[arXiv]**](https://arxiv.org/pdf/2305.12823v2.pdf) - [**[BMVC Proceeding]**](https://github.com/Vujas-Eteph/READMem) - (Videos) - [**[Poster]**](./docs/poster.pdf)
 - [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/readmem-robust-embedding-association-for-a/semi-supervised-video-object-segmentation-on-13)](https://paperswithcode.com/sota/semi-supervised-video-object-segmentation-on-13?p=readmem-robust-embedding-association-for-a)
 
 ![](./img/Qualitative_Results.png)

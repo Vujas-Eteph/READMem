@@ -1,0 +1,21 @@
+ST_Mem:
+  memory_size: 1
+  sampling_interval: 1
+  get_adjacent_frame_into_the_mix: false # Set to false when using a sampling interval of 1 for the short term memory
+LT_Mem:
+  memory_size: 10
+  sampling_interval: 10
+  similarity_bound: 0.5
+  method: 'static lower bound' # Available options: 'static lower bound', 'dynamic lower bound', 'ensemble lower bound', 'last', 'ensemble max', 'annotated and last', 'annotated and max'
+  init_method: Every_M
+  keep_annotated_frame_in_LT_memory: true
+  use_affinity: true
+  use_cosine_sim: true  # Rely on cosine similarity or dot product
+  zeta: 1.0
+Use_LT_memory: true
+use_affinity_base: false  # Controls which Affinity matrix to use
+
+
+
+
+

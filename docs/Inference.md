@@ -1,4 +1,4 @@
-# :blue_book: Installation
+# :closed_book: Inference
 
 This document contains instructions for running the READMem variants (*i.e.,* MiVOS, STCN, QDMN) on the DAVIS (D17) and Long-Video (LV1) datasets.
 

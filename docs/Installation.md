@@ -25,21 +25,19 @@ This document contains detailed instructions for installing the necessary depend
   ```
 - Install panda, matplotlib, PIL etc ...
 
-## 🟥 READMem-MiVOS Installation <a name="MiVOS"></a>
-Install MiVOS, by following instructions from the official [MiVOS(Mask-Propagation) repository](https://github.com/hkchengrex/Mask-Propagation).
-Replace the scripts (detailed the one), with the on in (path), through (command)
+## 🟥 READMem-MiVOS <a name="MiVOS"></a>
+Download under MiVOS, the propagation branch from the official [MiVOS(Mask-Propagation) repository](https://github.com/hkchengrex/Mask-Propagation), by following their instructions.  
+Replace the scripts (detailed the one), with the on in (path), through (command) / and delete the the needn't one
 
-## 🟦 READMem-STCN Installation <a name="STCN"></a>
+## 🟦 READMem-STCN <a name="STCN"></a>
 :construction::construction::construction::construction:
 
-
-## 🟧 READMem-QDMN Installation <a name="QDMN"></a>
+## 🟧 READMem-QDMN <a name="QDMN"></a>
 :construction::construction::construction::construction:
 
-## :hotsprings: DATASETS
-We use the [DAVIS 17 dataset](https://davischallenge.org/) and [LV1 dataset](https://www.kaggle.com/datasets/gvclsu/long-videos) - thanks too [AFB-URR](https://github.com/xmlyqing00/AFB-URR).
-
-Download those datasets and create symbolic links in our data folder:
+## :hotsprings: Download datasets <a name="dataset"></a>
+We use the [DAVIS 17 dataset](https://davischallenge.org/) and [LV1 dataset](https://www.kaggle.com/datasets/gvclsu/long-videos).
+Download the datasets and link them to a data folder in the main project:
 ```bash
 mkdir data
 ln -s [path/to/where/DAVIS/is/downloaded] ./data/DAVIS

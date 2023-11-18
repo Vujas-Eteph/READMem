@@ -10,7 +10,7 @@
 [**[arXiv]**](https://arxiv.org/pdf/2305.12823v2.pdf) - [**[BMVC Proceeding]**](https://github.com/Vujas-Eteph/READMem) - (Videos) - [**[Poster]**](./docs/poster.pdf)
 
 <p align="center">
-  <img src="./img/Pipeline.png"  width="100%">
+  <img src="./docs/img/Pipeline.png"  width="100%">
 </p>
 
 ---
@@ -29,11 +29,11 @@
 The following plots illustrate performance variations among sVOS baselines with and without our READMem extension on the LV1 dataset. The first plot showcases changes when varying the sampling interval $s_r$​, while the second depicts variations when adjusting the memory size $N$.
 
 <p align="center">
-  <img src="./img/Quantitative_Results_LV1.png"  width="95%">
+  <img src="./docs/img/Quantitative_Results_LV1.png"  width="95%">
 </p>
 
 <p align="center">
-  <img src="./img/Quantitative_Results_LV1_bis.png"  width="95%">
+  <img src="./docs/img/Quantitative_Results_LV1_bis.png"  width="95%">
 </p>
 
 But check out our paper and supplementary material for more qualitative and quantitative results!

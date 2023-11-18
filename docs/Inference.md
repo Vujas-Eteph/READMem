@@ -11,7 +11,7 @@ This document contains instructions for running the READMem variants (*i.e.,* Mi
 - [ ] Add STCN
 - [ ] Add QDMN
 
-## 🟥 READMem-MiVOS Installation
+## 🟥 READMem-MiVOS <a name="MiVOS"></a>
 - Most useful arguments IMO. But use the ```python READMem_MiVOS.py -h``` for more helpful details.
   ```bash
   python READMem_MiVOS.py \
@@ -30,11 +30,11 @@ This document contains instructions for running the READMem variants (*i.e.,* Mi
       --silence
   ```
 
-## 🟦 READMem-STCN Installation <a name="STCN"></a>
+## 🟦 READMem-STCN <a name="STCN"></a>
 :construction::construction::construction::construction:
 
 
-## 🟧 READMem-QDMN Installation <a name="QDMN"></a>
+## 🟧 READMem-QDMN <a name="QDMN"></a>
 :construction::construction::construction::construction:
 
 

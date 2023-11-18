@@ -18,7 +18,7 @@
 ---
 
 ### 📰 News:
-- Come chat with me about READMem at poster 113 on Wednesday, October 22, 2023, from 2:00 PM to 4:00 PM.
+- We are Poster 113! Come chat with me on Wednesday, October 22, 2023, from 2:00 PM to 4:00 PM :wink:
 - Yay! Our paper has been accepted at the **BMVC 2023** !! (See you there 😃)
 ---
 

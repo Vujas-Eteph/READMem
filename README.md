@@ -40,7 +40,7 @@ But check out our paper and supplementary material for more qualitative and quan
 
 ---
 
-### Getting Started
+### :books: Getting Started
 The documentation is split in the following seperate markdown files: 
 
 #### [:blue_book: Installation](./docs/Installation.md)

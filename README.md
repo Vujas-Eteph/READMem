@@ -43,11 +43,11 @@ But check out our paper and supplementary material for more qualitative and quan
 ### :books: Getting Started
 The documentation is split in the following seperate markdown files: 
 
-#### [:blue_book: Installation](./docs/Installation.md)
+#### [:blue_book: Installation](./docs/00_Installation.md)
 
-#### [:closed_book: Inference](./docs/Inference.md)
+#### [:closed_book: Inference](./docs/01_Inference.md)
 
-#### [:green_book: Evaluation](./docs/Evaluation.md)
+#### [:green_book: Evaluation](./docs/02_Evaluation.md)
 
 
 ---

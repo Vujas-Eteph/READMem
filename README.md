@@ -12,7 +12,7 @@
 [**[arXiv]**](https://arxiv.org/pdf/2305.12823v2.pdf) - [**[BMVC Proceeding]**](https://github.com/Vujas-Eteph/READMem) - (Videos) - [**[Poster]**](./docs/poster.pdf)
 
 <p align="center">
-  <img src="./docs/img/Pipeline.png"  width="100%">
+  <img src="./docs/img/Qualitative_Results.png"  width="100%">
 </p>
 
 ---

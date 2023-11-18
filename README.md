@@ -20,9 +20,9 @@
 - Yay! Our paper has been accepted at the **BMVC 2023** !! (See you there 😃)
 ---
 
-<span style="color:orange;">
+<span style="color:orange;font-weight:bold; font-style:italic;">
 
-**TL;DR:** *We manage the memory of STM like sVOS methods to better deal with long video. To attain long-term performance we estimate the inter-frame diversity of the base memory and integrate the embeddings of an incoming frame into the memory if it enhances the diversity. In return, we are able to limit the number of memory slots and deal with unconstrained video sequences without hindering the performance on short sequences and alleviate the need for a sampling interval.*
+TL;DR: We manage the memory of STM like sVOS methods to better deal with long video. To attain long-term performance we estimate the inter-frame diversity of the base memory and integrate the embeddings of an incoming frame into the memory if it enhances the diversity. In return, we are able to limit the number of memory slots and deal with unconstrained video sequences without hindering the performance on short sequences and alleviate the need for a sampling interval.
 
 </span>
 
@@ -45,7 +45,14 @@ But check out our paper and supplementary material for more qualitative and quan
 ---
 
 ### Getting Started
-(Add Code/Tutorial here)
+The documentation is split in the following seperate markdown files: 
+
+#### [:blue_book: Installation](.\docs\Installation.md)
+
+#### [:closed_book: Inference](.\docs\Inference.md)
+
+#### [:green_book: Evaluation](.\docs\Evaluation.md)
+
 
 ---
 

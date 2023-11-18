@@ -3,7 +3,7 @@
 This document contains detailed instructions for installing the necessary dependencies needed to make this project work on your system.
 
 :construction: To-Do List :construction::
-- [ ] List the required packages
+- [ ] List the required packages.
 - [ ] Provide a step-by-step guide.
 - [ ] Add a bash file for automatic installation.
 
@@ -12,7 +12,8 @@ This document contains detailed instructions for installing the necessary depend
 - :snake: We used a (mini)Conda environment - version 4.13 - with Python version 3.10
 - :fire: At least one Nvidia-GPU (We tested on a Nvidia GTX 1080-Ti) as we use PyTorch.
 
-## ⬜ Essentials
+
+## ⬜ Essentials <a name="Essentials"></a>
 - Create and activate a conda environment:
   ```bash
   conda create --name READMem python=3.10
@@ -24,17 +25,36 @@ This document contains detailed instructions for installing the necessary depend
   ```
 - Install panda, matplotlib, PIL etc ...
 
-## 🟥 READMem-MiVOS Installation
+## 🟥 READMem-MiVOS Installation <a name="MiVOS"></a>
 Install MiVOS, by following instructions from the official [MiVOS(Mask-Propagation) repository](https://github.com/hkchengrex/Mask-Propagation).
 Replace the scripts (detailed the one), with the on in (path), through (command)
 
-At the end, the repository's tree should look like this - use ```tree -L 1```:
+## 🟦 READMem-STCN Installation <a name="STCN"></a>
+:construction::construction::construction::construction:
+
+
+## 🟧 READMem-QDMN Installation <a name="QDMN"></a>
+:construction::construction::construction::construction:
+
+## :hotsprings: DATASETS
+We use the [DAVIS 17 dataset](https://davischallenge.org/) and [LV1 dataset](https://www.kaggle.com/datasets/gvclsu/long-videos) - thanks too [AFB-URR](https://github.com/xmlyqing00/AFB-URR).
+
+Download those datasets and create symbolic links in our data folder:
+```bash
+mkdir data
+ln -s [path/to/where/DAVIS/is/downloaded] ./data/DAVIS
+ln -s [path/to/where/LV1/is/downloaded] ./data/long_video_set
+```
+
+## :white_check_mark: Check if everything is alright
+
+In the end, the repository's tree should look like this - use ```tree -L 1``` in the main project folder:
 ```bash
 ├── MiVOS
 ├── READMem_API
+├── data
 ├── dataset
 ├── docs
-├── img
 ├── inference/data
 ├── model
 ├── scripts
@@ -50,11 +70,6 @@ At the end, the repository's tree should look like this - use ```tree -L 1```:
 └── train.py
 ```
 
-
-## 🟦 READMem-STCN Installation
-
-
-## 🟧: READMem-QDMN Installation
 
 
 

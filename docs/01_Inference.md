@@ -3,7 +3,7 @@
 This document contains instructions for running the READMem variants (*i.e.,* MiVOS, STCN, QDMN) on the DAVIS (D17) and Long-Video (LV1) datasets.
 
 ***Prerequisites:***
-- A set workspace as described in *[00_Installation.md](Installation.md)*
+- A set workspace as described in *[Installation.md](00_Installation.md)*
 - :hotsprings: The D17 and LV1 datasets downloaded.
 
 ---

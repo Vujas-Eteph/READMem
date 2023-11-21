@@ -9,7 +9,7 @@
 
 ***TL;DR: We manage the memory of STM like sVOS methods to better deal with long video. To attain long-term performance we estimate the inter-frame diversity of the base memory and integrate the embeddings of an incoming frame into the memory if it enhances the diversity. In return, we are able to limit the number of memory slots and deal with unconstrained video sequences without hindering the performance on short sequences and alleviate the need for a sampling interval.***
 
-[**[arXiv]**](https://arxiv.org/pdf/2305.12823v2.pdf) - [**[BMVC Proceeding Paper]**](https://papers.bmvc2023.org/0603.pdf)/[**[SUPP.]**](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0603_supp.pdf) - [**[Videos]**](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0603_video.mp4) - [**[Poster]**](./docs/poster.pdf)
+[**[arXiv]**](https://arxiv.org/pdf/2305.12823v2.pdf) - [**[BMVC Proceeding Paper]**](https://papers.bmvc2023.org/0603.pdf)/[**[SUPP.]**](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0603_supp.pdf) - [**[Videos]**](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0603_video.mp4) - [**[Poster]**](./docs/poster.pdf) - [**[BMVC Page]**](https://proceedings.bmvc2023.org/603/)
 
 <p align="center">
   <img src="./docs/img/Qualitative_Results.png"  width="95%">
@@ -52,13 +52,13 @@ The documentation is split in the following seperate markdown files:
 
 ### :black_nib: Citation
 ```bibtex
-@misc{vujasinović2023readmem,
-      title={READMem: Robust Embedding Association for a Diverse Memory in Unconstrained Video Object Segmentation}, 
-      author={Stéphane Vujasinović and Sebastian Bullinger and Stefan Becker and Norbert Scherer-Negenborn and Michael Arens and Rainer Stiefelhagen},
-      year={2023},
-      eprint={2305.12823},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{Vujasinovic_2023_BMVC,
+  author    = {Stephane Vujasinovic and Sebastian W Bullinger and Stefan Becker and Norbert Scherer-Negenborn and Michael Arens and Rainer Stiefelhagen},
+  title     = {READMem: Robust Embedding Association for a Diverse Memory in Unconstrained Video Object Segmentation},
+  booktitle = {34th British Machine Vision Conference 2023, {BMVC} 2023, Aberdeen, UK, November 20-24, 2023},
+  publisher = {BMVA},
+  year      = {2023},
+  url       = {https://papers.bmvc2023.org/0603.pdf}
 }
 ```
 

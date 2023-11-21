@@ -9,17 +9,12 @@
 
 ***TL;DR: We manage the memory of STM like sVOS methods to better deal with long video. To attain long-term performance we estimate the inter-frame diversity of the base memory and integrate the embeddings of an incoming frame into the memory if it enhances the diversity. In return, we are able to limit the number of memory slots and deal with unconstrained video sequences without hindering the performance on short sequences and alleviate the need for a sampling interval.***
 
-[**[arXiv]**](https://arxiv.org/pdf/2305.12823v2.pdf) - [**[BMVC Proceeding Paper]**](https://papers.bmvc2023.org/0603.pdf)/[**[SUPP.]**](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0603_supp.pdf) - [**[Videos]**](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0603_video.mp4) - [**[Poster]**](./docs/poster.pdf) - [**[BMVC Page]**](https://proceedings.bmvc2023.org/603/)
+[**[arXiv]**](https://arxiv.org/pdf/2305.12823v2.pdf) - [**[BMVC Proceeding Paper]**](https://papers.bmvc2023.org/0603.pdf)/[**[SUPP.]**](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0603_supp.pdf) - [**[Video]**](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0603_video.mp4) - [**[Poster]**](./docs/poster.pdf) - [**[BMVC Page]**](https://proceedings.bmvc2023.org/603/)
 
 <p align="center">
   <img src="./docs/img/Qualitative_Results.png"  width="95%">
 </p>
 
----
-
-### 📰 News:
-- We are Poster 113! Come chat with me on Wednesday, October 22, 2023, from 2:00 PM to 4:00 PM :wink:
-- Yay! Our paper has been accepted at the **BMVC 2023** !! (See you there 😃)
 ---
 
 ### 📊 Some Quantitative Results 

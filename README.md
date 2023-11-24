@@ -17,6 +17,11 @@
 
 ---
 
+
+### News:
+
+Np best poster award... but got in the honorable mentions ! 🔥
+
 ### 📊 Some Quantitative Results 
 
 The following plots illustrate performance variations among sVOS baselines with and without our READMem extension on the LV1 dataset. The first plot showcases changes when varying the sampling interval $s_r$​, while the second depicts variations when adjusting the memory size $N$.

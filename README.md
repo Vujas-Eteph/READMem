@@ -53,7 +53,7 @@ The documentation is split in the following seperate markdown files:
 ### :black_nib: Citation
 ```bibtex
 @inproceedings{Vujasinovic_2023_BMVC,
-  author    = {Stephane Vujasinovic and Sebastian W Bullinger and Stefan Becker and Norbert Scherer-Negenborn and Michael Arens and Rainer Stiefelhagen},
+  author    = {Stephane Vujasinovic and Sebastian Bullinger and Stefan Becker and Norbert Scherer-Negenborn and Michael Arens and Rainer Stiefelhagen},
   title     = {READMem: Robust Embedding Association for a Diverse Memory in Unconstrained Video Object Segmentation},
   booktitle = {34th British Machine Vision Conference 2023, {BMVC} 2023, Aberdeen, UK, November 20-24, 2023},
   publisher = {BMVA},

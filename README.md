@@ -19,8 +19,7 @@
 
 
 ### News:
-
-Np best poster award... but got in the honorable mentions ! 🔥
+- Our poster was mentioned during the honorable mentions! 😄
 
 ### 📊 Some Quantitative Results 
 
